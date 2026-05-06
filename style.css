@@ -23,3 +23,23 @@ header {
 section {
     padding: 20px;
 }
+section {
+    padding: 20px;
+    margin: 20px;
+    background: white;
+    border-radius: 10px;
+}
+
+img {
+    width: 300px;
+    margin-top: 10px;
+}
+
+a:hover {
+    color: green;
+}
+footer {
+    text-align: center;
+    padding: 20px;
+    background: #ddd;
+}
